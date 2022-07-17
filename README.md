@@ -7,6 +7,8 @@ For this reason, this thesis focuses on automating the extraction of keywords fr
 
 Automation will be achieved through the use of different methods from one of the most popular fields of artificial intelligence, namely NLP - Natural Language Processing -.
 
+The aim of this work is to try three different classical techniques in order to extract keywords. After that, we are going to use a BERT approach and compare the results that were obtained.
+
 ## Keyword Extraction Techniques
 
 * TF-IDF
@@ -16,3 +18,8 @@ Automation will be achieved through the use of different methods from one of the
 * BERT + TF-IDF
 * BERT + LDA
 * BERT + Text Rank
+
+
+## Data to use
+
+The data is located in the folder 'data'. We are going to prove our approach with a bunch of reviews which belongs to important business. Such as MacDonalds, Starbucks and CVS Pharmacy. 
