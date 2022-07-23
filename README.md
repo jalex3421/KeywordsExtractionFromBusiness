@@ -22,4 +22,4 @@ The aim of this work is to try three different classical techniques in order to 
 
 ## Data to use
 
-The data is located in the folder 'data'. We are going to prove our approach with a bunch of reviews which belongs to important business. Such as MacDonalds, Starbucks and CVS Pharmacy. 
+The data is located in the folder 'data'. We are going to prove our approach with a bunch of reviews which belongs to important business. Such as Mcdonalds, Starbucks and CVS Pharmacy. 
